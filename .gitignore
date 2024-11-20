@@ -1,5 +1,6 @@
 # Ignore Pytest Cache
 pytest.cache/
+__pycache__/
 
 # Ignore IDE files
 .idea/
