@@ -1,2 +1,8 @@
-.idea/
+# Ignore Pytest Cache
 pytest.cache/
+
+# Ignore IDE files
+.idea/
+
+# Ignore virtual environment files
+venv/
